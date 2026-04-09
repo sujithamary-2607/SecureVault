@@ -181,11 +181,7 @@ http://localhost:3000
 ## 👩‍💻 Author
 
 **T. Sujitha Mary**
+
 Department of Artificial Intelligence and Data Science
+
 St. Joseph College of Engineering
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
